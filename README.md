@@ -30,7 +30,10 @@ This project uses **Cypress**, including **Cucumber** (BDD), and **Mochawesome**
 2. Install dependencies:
    ```bash
    npm install
-🏃‍♂️ Running Tests
+
+---
+
+## 🏃‍♂️ Running Tests
 - Run all tests in headless mode
   ```bash
   npm run test:cypress
